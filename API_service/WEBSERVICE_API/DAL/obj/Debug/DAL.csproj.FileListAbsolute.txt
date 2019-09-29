@@ -1,0 +1,9 @@
+C:\Users\26046294\source\repos\WEBSERVICE_API\DAL\bin\Debug\DAL.dll
+C:\Users\26046294\source\repos\WEBSERVICE_API\DAL\bin\Debug\DAL.pdb
+C:\Users\26046294\source\repos\WEBSERVICE_API\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\26046294\source\repos\WEBSERVICE_API\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\26046294\source\repos\WEBSERVICE_API\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\26046294\source\repos\WEBSERVICE_API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\26046294\source\repos\WEBSERVICE_API\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\26046294\source\repos\WEBSERVICE_API\DAL\obj\Debug\DAL.dll
+C:\Users\26046294\source\repos\WEBSERVICE_API\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,17 @@
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\bin\Debug\netcoreapp2.1\WEBSERVICE_API.deps.json
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\bin\Debug\netcoreapp2.1\WEBSERVICE_API.runtimeconfig.json
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\bin\Debug\netcoreapp2.1\WEBSERVICE_API.runtimeconfig.dev.json
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\bin\Debug\netcoreapp2.1\WEBSERVICE_API.dll
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\bin\Debug\netcoreapp2.1\WEBSERVICE_API.pdb
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.csprojAssemblyReference.cache
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.csproj.CoreCompileInputs.cache
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.RazorAssemblyInfo.cache
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.RazorAssemblyInfo.cs
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.AssemblyInfoInputs.cache
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.AssemblyInfo.cs
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.RazorTargetAssemblyInfo.cache
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.csproj.CopyComplete
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.dll
+C:\Users\26046294\source\repos\WEBSERVICE_API\WEBSERVICE_API\obj\Debug\netcoreapp2.1\WEBSERVICE_API.pdb
