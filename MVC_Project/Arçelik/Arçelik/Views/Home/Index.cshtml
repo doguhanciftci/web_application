@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Arçelik.Models.Applicant>
+
+<br />
+<br />
+<div>
+    <img src="http://www.arcelikglobal.com/Content/images/navbar/logo-en.png" alt="Arcelik_Logo" style="300px:;height:100px;" />
+</div>
+<br />
+<h1>Information Technologies is hiring</h1>
+<br />
+<div>
+    <ul>
+        <li><a asp-action="Apply2" style="color:red; font-size:large">Apply</a></li>
+        <li><a asp-controller="Login" asp-action="Login" style="color:darkgoldenrod; font-size:large">Log In</a></li>
+        <li><a asp-controller="Home" asp-action="SignUp" ,"Login style="color:darkblue; font-size:large">Sign Up</a></li>
+    </ul>
+
+    
+
+</div>
+<br />
+<br />
+<br />
+<br />
+
+<table style="width:100%">
+    <tr>
+        <th>Id</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Username</th>
+        <th>Password</th>
+        <th>Age</th>
+        <th>Phone</th>
+        <th>Extra</th>
+        <th>ApplyDate</th>
+    </tr>
+    @foreach (var a in Model)
+    {
+        <tr>
+            <td>@a.Id</td>
+            <td>@a.Fname</td>
+            <td>@a.Lname</td>
+            <td>@a.LoginModel.Username</td>
+            <td>@a.LoginModel.Password</td>
+            <td>@a.Age</td>
+            <td>@a.Phone</td>
+            <td>@a.ExtraInfo</td>
+            <td>@string.Format("{0: dddd, dd MMMM yyyy}", a.AddedOn)</td>
+        </tr>
+    }
+</table>

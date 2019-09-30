@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "List";
+}
+@model IEnumerable<Arçelik.Models.MyApplication>
+
+<h2>Applied Offers List</h2>
+<br />
+<br />
+
+<table style="width:100%">
+    <tr>
+        <th>ID</th>
+        <th>Company</th>
+        <th>Location</th>
+        <th>Department</th>
+        <th>Address</th>
+        <th>Application Date</th>
+    </tr>
+    @foreach (var a in Model)
+    {
+        <tr>
+            <td>@a.Apply_Id</td>
+            <td>@a.Company_Name</td>
+            <td>@a.Location_Name</td>
+            <td>@a.Department_Name</td>
+            <td>@a.Address</td>
+            <td>@string.Format("{0: dddd, dd MMMM yyyy}", a.Application_Date)</td>
+        </tr>
+    }
+</table>
+

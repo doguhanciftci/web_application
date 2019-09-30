@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "WCF";
+}
+
+@model IEnumerable<Arçelik.Models.Applicant_History>
+
+
+<h2>@ViewData["Title"]</h2>
+<br />
+<br />
+<h3>XML => Table</h3>
+<br />
+<table style="width:100%">
+    <tr>
+        <th>HId</th>
+        <th>Id</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Username</th>
+        <th>Password</th>
+        <th>Age</th>
+        <th>Phone</th>
+        <th>Extra</th>
+        <th>ModificationDate</th>
+    </tr>
+    @foreach (var a in Model)
+    {
+        <tr>
+            <td>@a.H_Applicant_Id</td>
+            <td>@a.Applicant_Id</td>
+            <td>@a.H_FName</td>
+            <td>@a.H_LName</td>
+            <td>@a.H_Username</td>
+            <td>@a.H_Password</td>
+            <td>@a.H_Age</td>
+            <td>@a.H_Phone</td>
+            <td>@a.H_Extra</td>
+            <td>@string.Format("{0: dddd, dd MMMM yyyy}", a.H_ModificationDate)</td>
+        </tr>
+    }
+</table>

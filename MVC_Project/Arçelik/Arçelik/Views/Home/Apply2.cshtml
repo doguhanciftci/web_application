@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Apply";
+}
+
+@model IEnumerable<Arçelik.Models.Offer>
+
+<h2>Apply</h2>
+
+<table style="width:100%">
+    <thead>
+        <tr>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Department</th>
+            <th>Apply</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var a in Model)
+        {
+            <tr>
+                <td>@a.Company_Name</td>
+                <td>@a.Location_Name</td>
+                <td>@a.Department_Name</td>
+                <td>
+                    <form asp-action="Apply2" method="post" asp-route-id="@a.Department_Id">
+                        <button class="btn btn-primary" style="margin-bottom:10px">Apply</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
