@@ -1,0 +1,22 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.30515.712",
+  "GettingStartedDocument": {
+    "Uri": "https://go.microsoft.com/fwlink/?linkid=858517"
+  },
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:49555/Service.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceReference1"
+    ],
+    "sync": true,
+    "targetFramework": "netcoreapp2.1",
+    "typeReuseMode": "None"
+  }
+}

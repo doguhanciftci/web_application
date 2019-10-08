@@ -1,0 +1,14 @@
+C:\Users\26046294\source\repos\Arçelik\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+C:\Users\26046294\source\repos\Arçelik\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+C:\Users\26046294\source\repos\Arçelik\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+C:\Users\26046294\source\repos\Arçelik\DAL\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\26046294\source\repos\Arçelik\DAL\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\26046294\source\repos\Arçelik\DAL\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\26046294\source\repos\Arçelik\DAL\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+C:\Users\26046294\source\repos\Arçelik\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+C:\Users\26046294\source\repos\Arçelik\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\26046294\source\repos\Arçelik\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\26046294\source\repos\Arçelik\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+C:\Users\26046294\source\repos\Arçelik\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
+C:\Users\26046294\source\repos\Arçelik\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+C:\Users\26046294\source\repos\Arçelik\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
